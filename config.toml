@@ -1,4 +1,4 @@
-baseURL = "coba.thengoding.com"
+baseURL = "http://coba.thengoding.com"
 languageCode = "en-us"
 title = "The Ngoding"
 theme = "ananke"
