@@ -1,4 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://thengoding.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Ngoding"
 theme = "ananke"
+
+
+[permalinks]
+  posts = "/:year/:month/:title/"
