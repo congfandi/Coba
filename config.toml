@@ -1,8 +1,8 @@
-baseURL = "https://thengoding.com"
+baseURL = "https://coba.thengoding.com"
 languageCode = "en-us"
 title = "The Ngoding"
 theme = "ananke"
 
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:day/:title/"
